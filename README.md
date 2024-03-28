@@ -1,6 +1,4 @@
 ![event1](https://github.com/sabee16/bee-web/assets/165282790/b74be976-c96c-452d-af51-6c678424efa7)
-![event1](https://github.com/sabee16/bee-web/assets/165282790/fbf3a8a6-0456-4441-8536-614036164516)
-![event2](https://github.com/sabee16/bee-web/assets/165282790/c35a3aa9-2895-48dc-869d-d61bd6cdc1d7)
 <!DOCTYPE html>
 <html>
   <head>
@@ -20,7 +18,8 @@
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis, aut veritatis? Architecto aspernatur repellat culpa, iusto quis incidunt ad necessitatibus nam minima hic repudiandae fugiat voluptatem debitis illo sequi nobis magnam vitae obcaecati totam distinctio assumenda reprehenderit inventore consectetur. Maxime, ullam nulla voluptates voluptatum enim optio quas vero quasi non magnam necessitatibus velit adipisci blanditiis expedita, magni voluptas odit eos. Est beatae vero, et iusto laudantium voluptates quam labore rerum ipsa, soluta deleniti amet exercitationem placeat reprehenderit sequi voluptate accusamus culpa eius. Mollitia consequatur, delectus possimus doloribus blanditiis adipisci, accusamus obcaecati praesentium nemo molestiae minus suscipit sit explicabo distinctio quasi!
 
       </p>
-<center>
+<center> 
+  ![event2](https://github.com/sabee16/bee-web/assets/165282790/76e3f35d-8b12-44e4-9195-9e9a167145b4)
       <img src="img/event1.png">
      <h1>photo gallery</h1> 
      <h2>free entery /free food/ pets are not allowe<d/h2>
