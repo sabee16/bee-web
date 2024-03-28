@@ -13,7 +13,6 @@
     </p>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis, aut veritatis? Architecto aspernatur repellat culpa, iusto quis incidunt ad necessitatibus nam minima hic repudiandae fugiat voluptatem debitis illo sequi nobis magnam vitae obcaecati totam distinctio assumenda reprehenderit inventore consectetur. Maxime, ullam nulla voluptates voluptatum enim optio quas vero quasi non magnam necessitatibus velit adipisci blanditiis expedita, magni voluptas odit eos. Est beatae vero, et iusto laudantium voluptates quam labore rerum ipsa, soluta deleniti amet exercitationem placeat reprehenderit sequi voluptate accusamus culpa eius. Mollitia consequatur, delectus possimus doloribus blanditiis adipisci, accusamus obcaecati praesentium nemo molestiae minus suscipit sit explicabo distinctio quasi!
       </p>
-   ![event1](https://github.com/sabee16/bee-web/assets/165282790/b74be976-c96c-452d-af51-6c678424efa7) 
 <center>
       <img src="img/event1.png">
      <h1>photo gallery</h1> 
