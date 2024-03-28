@@ -1,23 +1,19 @@
-![event1](https://github.com/sabee16/bee-web/assets/165282790/b74be976-c96c-452d-af51-6c678424efa7)
 <!DOCTYPE html>
 <html>
   <head>
        <title>events</title>
        <link rel="icon" href="img/date.png">
-
-  </head>
-
+  </head
   <body bgcolor="black" style="color: white;">
       <center>
         <h1>upcoming event📅</h1>
         <p>Don't miss any of your events.stay updated</p>
       </center>
-
       <hr>
     </p>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis, aut veritatis? Architecto aspernatur repellat culpa, iusto quis incidunt ad necessitatibus nam minima hic repudiandae fugiat voluptatem debitis illo sequi nobis magnam vitae obcaecati totam distinctio assumenda reprehenderit inventore consectetur. Maxime, ullam nulla voluptates voluptatum enim optio quas vero quasi non magnam necessitatibus velit adipisci blanditiis expedita, magni voluptas odit eos. Est beatae vero, et iusto laudantium voluptates quam labore rerum ipsa, soluta deleniti amet exercitationem placeat reprehenderit sequi voluptate accusamus culpa eius. Mollitia consequatur, delectus possimus doloribus blanditiis adipisci, accusamus obcaecati praesentium nemo molestiae minus suscipit sit explicabo distinctio quasi!
-
       </p>
+   ![event1](https://github.com/sabee16/bee-web/assets/165282790/b74be976-c96c-452d-af51-6c678424efa7) 
 <center>
       <img src="img/event1.png">
      <h1>photo gallery</h1> 
@@ -25,11 +21,8 @@
     <p>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa nihil aut ut aperiam quaerat. Nostrum iusto ex incidunt harum aliquam, consequuntur eius cupiditate consequatur nisi? Error atque minima dolores at perspiciatis inventore nulla totam rem! Omnis ad temporibus magni explicabo, optio atque! Aperiam molestiae facilis quas sapiente, libero mollitia cupiditate.
     </p>
-    </center>
-
-![event2](https://github.com/sabee16/bee-web/assets/165282790/29bfb4b8-374f-40b7-a59d-262ede86a363)
-
-<center>
+    </center> 
+   <center>
     <img src="img/event2.png">
 ,<h1>
     <a href="https://www.myntra.com/">fassion store</a>
