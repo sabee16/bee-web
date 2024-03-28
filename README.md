@@ -1,4 +1,6 @@
 ![event1](https://github.com/sabee16/bee-web/assets/165282790/b74be976-c96c-452d-af51-6c678424efa7)
+![event1](https://github.com/sabee16/bee-web/assets/165282790/fbf3a8a6-0456-4441-8536-614036164516)
+![event2](https://github.com/sabee16/bee-web/assets/165282790/c35a3aa9-2895-48dc-869d-d61bd6cdc1d7)
 <!DOCTYPE html>
 <html>
   <head>
